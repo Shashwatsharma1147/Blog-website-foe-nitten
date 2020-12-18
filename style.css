@@ -1,0 +1,16 @@
+#img1 {
+    width: 550px;
+    height: 400px;
+}
+
+body {
+    text-align: center;
+    background-color: aqua;
+    color: burlywood;
+}
+
+#l1 {
+    font-size: 25px;
+    color: brown;
+    font-family: fantasy;
+}
